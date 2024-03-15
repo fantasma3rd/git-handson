@@ -1,3 +1,3 @@
-print("Please input your name :)")
+print("Pleeeease input your neme :)")
 value = input()
-print("Hey " + value + "! Hello World!")
+print("Hey " + value + "! Hellllllo Worrrrld!")
